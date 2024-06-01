@@ -1,0 +1,102 @@
+part of 'app_pages.dart';
+// DO NOT EDIT. This is code generated via package:get_cli/get_cli.dart
+
+abstract class Routes {
+  Routes._();
+  static const HOME = _Paths.HOME;
+  static const SPLASH = _Paths.SPLASH;
+  static const ONBOARDING = _Paths.ONBOARDING;
+  static const CREATE_ACCOUNT = _Paths.CREATE_ACCOUNT;
+  static const LOGIN = _Paths.LOGIN;
+  static const BOTTOMBAR = _Paths.BOTTOMBAR;
+  static const VERIFICATION = _Paths.VERIFICATION;
+  static const PROFILE_INFORMATION = _Paths.PROFILE_INFORMATION;
+  static const FORGOT_PASSWORD = _Paths.FORGOT_PASSWORD;
+  static const CREATE_PASSWORD = _Paths.CREATE_PASSWORD;
+
+  static const MESSAGE = _Paths.MESSAGE;
+  static const MY_PRODUCT = _Paths.MY_PRODUCT;
+  static const PROFILE = _Paths.PROFILE;
+  static const ADD_NEW_SWAP_PRODUCT = _Paths.ADD_NEW_SWAP_PRODUCT;
+  static const SEARCH = _Paths.SEARCH;
+  static const MAJESTIC = _Paths.MAJESTIC;
+  static const MAJESTIC_DETAILS = _Paths.MAJESTIC_DETAILS;
+  static const SEE_ALL_CATEGORY = _Paths.SEE_ALL_CATEGORY;
+  static const SEE_NEW_SWAP = _Paths.SEE_NEW_SWAP;
+  static const CATEGORY_DETAILS = _Paths.CATEGORY_DETAILS;
+  static const PRODUCT_INFO = _Paths.PRODUCT_INFO;
+  static const EXCHANGE_OFFER = _Paths.EXCHANGE_OFFER;
+  static const NEW_SWAP_ALL = _Paths.NEW_SWAP_ALL;
+  static const RECOMMENDED_SWAP = _Paths.RECOMMENDED_SWAP;
+  static const NOTIFICATION = _Paths.NOTIFICATION;
+  static const VIEW_OFFER = _Paths.VIEW_OFFER;
+  static const CHAT = _Paths.CHAT;
+  static const CREATE_PAGE = _Paths.CREATE_PAGE;
+  static const SELECT_CATEGORY = _Paths.SELECT_CATEGORY;
+  static const EXCHANGE_ADDRESS_ADD = _Paths.EXCHANGE_ADDRESS_ADD;
+  static const CREATE_SWAP = _Paths.CREATE_SWAP;
+  static const ADD_MAJESTIC_ITEM = _Paths.ADD_MAJESTIC_ITEM;
+  static const OFFER_USER_LIST = _Paths.OFFER_USER_LIST;
+  static const EDIT_PRODUCT = _Paths.EDIT_PRODUCT;
+  static const EDIT_EXCHANGE_PRODUCT = _Paths.EDIT_EXCHANGE_PRODUCT;
+  static const WRITE_REVIEW = _Paths.WRITE_REVIEW;
+  static const EDIT_PROFILE = _Paths.EDIT_PROFILE;
+  static const REVIEW_DETAILS = _Paths.REVIEW_DETAILS;
+  static const MY_FAVOURITE = _Paths.MY_FAVOURITE;
+  static const MY_OFFER = _Paths.MY_OFFER;
+  static const MY_MAGESTIC_ITEM = _Paths.MY_MAGESTIC_ITEM;
+  static const EDIT_MAGESTIC_ITEM = _Paths.EDIT_MAGESTIC_ITEM;
+  static const ANALYTICS = _Paths.ANALYTICS;
+  static const CHANGES_PASSWORD = _Paths.CHANGES_PASSWORD;
+  static const CONTACT_US = _Paths.CONTACT_US;
+}
+
+abstract class _Paths {
+  _Paths._();
+  static const HOME = '/home';
+  static const SPLASH = '/splash';
+  static const ONBOARDING = '/onboarding';
+  static const CREATE_ACCOUNT = '/create-account';
+  static const LOGIN = '/login';
+  static const BOTTOMBAR = '/bottombar';
+  static const VERIFICATION = '/verification';
+  static const PROFILE_INFORMATION = '/profile-information';
+  static const FORGOT_PASSWORD = '/forgot-password';
+  static const CREATE_PASSWORD = '/create-password';
+
+  static const MESSAGE = '/message';
+  static const MY_PRODUCT = '/my-product';
+  static const PROFILE = '/profile';
+  static const ADD_NEW_SWAP_PRODUCT = '/add-new-swap-product';
+  static const SEARCH = '/search';
+  static const MAJESTIC = '/majestic';
+  static const MAJESTIC_DETAILS = '/majestic-details';
+  static const SEE_ALL_CATEGORY = '/see-all-category';
+  static const SEE_NEW_SWAP = '/see-new-swap';
+  static const CATEGORY_DETAILS = '/category-details';
+  static const PRODUCT_INFO = '/product-info';
+  static const EXCHANGE_OFFER = '/exchange-offer';
+  static const NEW_SWAP_ALL = '/new-swap-all';
+  static const RECOMMENDED_SWAP = '/recommended-swap';
+  static const NOTIFICATION = '/notification';
+  static const VIEW_OFFER = '/view-offer';
+  static const CHAT = '/chat';
+  static const CREATE_PAGE = '/create-page';
+  static const SELECT_CATEGORY = '/select-category';
+  static const EXCHANGE_ADDRESS_ADD = '/exchange-address-add';
+  static const CREATE_SWAP = '/create-swap';
+  static const ADD_MAJESTIC_ITEM = '/add-majestic-item';
+  static const OFFER_USER_LIST = '/offer-user-list';
+  static const EDIT_PRODUCT = '/edit-product';
+  static const EDIT_EXCHANGE_PRODUCT = '/edit-exchange-product';
+  static const WRITE_REVIEW = '/write-review';
+  static const EDIT_PROFILE = '/edit-profile';
+  static const REVIEW_DETAILS = '/review-details';
+  static const MY_FAVOURITE = '/my-favourite';
+  static const MY_OFFER = '/my-offer';
+  static const MY_MAGESTIC_ITEM = '/my-magestic-item';
+  static const EDIT_MAGESTIC_ITEM = '/edit-magestic-item';
+  static const ANALYTICS = '/analytics';
+  static const CHANGES_PASSWORD = '/changes-password';
+  static const CONTACT_US = '/contact-us';
+}
